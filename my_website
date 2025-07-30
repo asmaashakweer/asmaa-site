@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+body{background-color: aquamarine;font-family:Arial,sans-serif;text-align: center;color:#333;}
+h1
+{color: #0077cc;}
+p
+{font: size 18px;}
+ul
+{list-style-type:none;padding:0;}
+li
+{background-color: #e6f2ff;margin: 5px;padding: 10px;border-radius: 8px;display:inline-block;}
+a
+{display: inline-block;margin-top: 10px;color:#fff;background-color: #0077cc;padding: 10px 15px;
+border-radius: 5px;text-decoration: none;}
+button{margin-top: 15px; padding: 10px 20px;font-size: 16px;
+background-color: #28a745;color: white;border: none;border-radius: 6px;cursor: pointer;}
+button:hover{background-color: #218838;}
+    </style>
+</head>
+</head>
+<body>
+    <nav>
+<a"href="index.html>Home</a>
+<a"href="about.html>Who me</a>
+<a"href="contact.html>conact us</a>
+    </nav>
+    <p>my first site by html and css</p>
+ <h1>welcome to me in first project</h1>
+<p>iam an IT student and i have started learning web development.<br>
+     this is my first project</p>
+
+     <img
+     src="https://placekitten.com/300/200" alt="Nice cat" width="200" height="200"
+     
+     <h2>i like cats</h2>
+     <ul>
+<li>programing</li>
+<li>coffe</li>
+<li>mazika</li>
+     </ul>
+     <a>href="https://www.google.com"<target="_blank">visiting google</a>
+     <br><br>
+     <button onclick="alert('thank you for visiting')">click me</button>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eng asmaa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+<a"href="index.html>Home</a>
+<a"href="about.html>Who me</a>
+<a"href="contact.html>conact us</a>
+    </nav>
+    <p>my first site by html and css</p>
+    <h1>i study at burj al arab university of technology</h1>
+    <p>iam an information technology student and this is my second website</p>
+    <a href="index.html"back to thy main pags</a>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contact us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+  a"href="index.html>Home</a>
+<a"href="about.html>Who me</a>
+<a"href="contact.html>conact us</a>
+    </nav>
+    <p>my first site by html and css</p>
+    <h1>contact us</h1>
+    <p>contact us if you have any questions</p>
+    <a href="index.html>back to the main page</a>
+    <form>
+  <label for="name"> asmaa:</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <label for="email">asmaashakweer83@gmail.com :</label><br>
+  <input type="email" id="email" name="email" required><br><br>
+
+  <label for="message"> :</label><br>
+  <textarea id="message" name="message" rows="5" required></textarea><br><br>
+
+  <input type="submit" value="إرسال">
+</form>
+</body>
+</html>
